@@ -1,2 +1,0 @@
-# DjangoModels
-Practicing Django
