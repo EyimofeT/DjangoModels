@@ -1,4 +1,4 @@
-env/
+
 # # Byte-compiled / optimized / DLL files
 # __pycache__/
 # *.py[cod]
@@ -103,13 +103,13 @@ env/
 # *.sage.py
 
 # # Environments
-# .env
-# .venv
-# env/
-# venv/
-# ENV/
-# env.bak/
-# venv.bak/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
 # # Spyder project settings
 # .spyderproject
